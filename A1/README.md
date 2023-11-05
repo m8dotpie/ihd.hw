@@ -20,6 +20,7 @@ In general, the mechanism is comprised of three four-bars, which formed by actua
 
 - [Timelapse video](assets/timelapse-4bar.mp4)
 - [Showcase video](assets/showcase-4bar.gif)
+- [Geogebra file](4bar-quick.ggb)
 
 ![](assets/showcase-4bar.gif)
 
@@ -33,6 +34,7 @@ This modification of the previous approach allows us to save the parallelism of 
 
 - [Timelapse video](assets/timelapse-6bar.mp4)
 - [Showcase video](assets/showcase-6bar.gif)
+- [Geogebra file](6bar-quick.ggb)
 
 ![](assets/showcase-6bar.gif)
 
@@ -46,5 +48,6 @@ Mechanism structure comprised of two "wings" which meet each other on the pneuma
 
 - [Timelapse video](assets/timelapse-pneumatic.mp4)
 - [Showcase video](assets/showcase-pneumatic.gif)
+- [Geogebra file](6bar-pneumatic.ggb)
 
 ![](assets/showcase-pneumatic.gif)
